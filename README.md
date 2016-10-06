@@ -12,4 +12,5 @@ PokemonGo Trade Web Application
 Use it either by registering, or logging in with
 
 Id: test
+
 pwd: P@$$w0rd
